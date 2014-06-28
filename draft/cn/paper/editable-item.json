@@ -1,1 +1,1 @@
-{"id":"editable-item","subtitle":"A subtitle that changed on 2014-06-27 22:08:47 +0100","title":"A title that was confirmed on 2014-06-27 22:08:47 +0100","date":"09/04/2013","location":"I still do not want to live here on 2014-06-27 22:08:47 +0100","content_body_ref":"editable-item-content-body.html"}
+{"id":"editable-item","subtitle":"subtitle","title":"title","date":"09/04/2013","location":"location","content_body_html":"<p>Boring stuff</p>"}
